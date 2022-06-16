@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/project-Trybetunes/static/css/main.b763793f.chunk.css",
+    "main.js": "/project-Trybetunes/static/js/main.3b3db395.chunk.js",
+    "main.js.map": "/project-Trybetunes/static/js/main.3b3db395.chunk.js.map",
+    "runtime-main.js": "/project-Trybetunes/static/js/runtime-main.7f71841a.js",
+    "runtime-main.js.map": "/project-Trybetunes/static/js/runtime-main.7f71841a.js.map",
+    "static/js/2.57890732.chunk.js": "/project-Trybetunes/static/js/2.57890732.chunk.js",
+    "static/js/2.57890732.chunk.js.map": "/project-Trybetunes/static/js/2.57890732.chunk.js.map",
+    "index.html": "/project-Trybetunes/index.html",
+    "static/css/main.b763793f.chunk.css.map": "/project-Trybetunes/static/css/main.b763793f.chunk.css.map",
+    "static/js/2.57890732.chunk.js.LICENSE.txt": "/project-Trybetunes/static/js/2.57890732.chunk.js.LICENSE.txt",
+    "static/media/fundo-login.bd2148ef.png": "/project-Trybetunes/static/media/fundo-login.bd2148ef.png",
+    "static/media/logo-menu.4b570550.png": "/project-Trybetunes/static/media/logo-menu.4b570550.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7f71841a.js",
+    "static/js/2.57890732.chunk.js",
+    "static/css/main.b763793f.chunk.css",
+    "static/js/main.3b3db395.chunk.js"
+  ]
+}
